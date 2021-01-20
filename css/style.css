@@ -1,0 +1,14 @@
+body {
+  background: url('../img/sky_bg.jpg');
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.logo {
+  text-decoration: line-through;
+}
